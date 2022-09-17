@@ -3,6 +3,8 @@
 # idea-plpgdebugger Changelog
 
 ## [Unreleased]
+
+## [222.0.2]
 - Update plugin version
 - Update plugin gradle version
 - Update Github Actions
